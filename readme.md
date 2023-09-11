@@ -22,15 +22,18 @@ Once the project is open, you can see the Program.cs file, which is the entry po
 Here is the structure of the application
 
 
-
+---------------------------------------------------------------------------------------------------------------------
 -LiftApp
   * Interface
   * Models
   * Services
 
-
+-----------------------------------------------------------------------------------------------------------------------
 -LiftApp.Tests
   *ElevetorTest
+
+-----------------------------------------------------------------------------------------------------------------------
+
 
 Running the Elevator Console App
 To run the Elevator Console App from Visual Studio, follow these steps:
