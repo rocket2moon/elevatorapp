@@ -20,10 +20,15 @@ Click the "Open" button to load the project.
 
 Once the project is open, you can see the Program.cs file, which is the entry point to the functionality of the app.
 Here is the structure of the application
+
+
+
 -LiftApp
   * Interface
   * Models
   * Services
+
+
 -LiftApp.Tests
   *ElevetorTest
 
