@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\LiftApp\LiftApp\bin\Debug\net7.0\LiftApp.exe
+C:\Users\DELL\source\repos\LiftApp\LiftApp\bin\Debug\net7.0\LiftApp.deps.json
+C:\Users\DELL\source\repos\LiftApp\LiftApp\bin\Debug\net7.0\LiftApp.runtimeconfig.json
+C:\Users\DELL\source\repos\LiftApp\LiftApp\bin\Debug\net7.0\LiftApp.dll
+C:\Users\DELL\source\repos\LiftApp\LiftApp\bin\Debug\net7.0\LiftApp.pdb
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.dll
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\refint\LiftApp.dll
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.pdb
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\LiftApp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\LiftApp\LiftApp\obj\Debug\net7.0\ref\LiftApp.dll
