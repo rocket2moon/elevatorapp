@@ -3,6 +3,8 @@
 This provides instructions on how to run an Elevator Console App written in C# using Visual Studio. This simple console application simulates elevator operations and can be a great starting point for learning C# and console app development.
 
 **Prerequisites**
+
+
 Before you begin, make sure you have the following installed on your system:
 
 * Visual Studio
@@ -10,6 +12,8 @@ Before you begin, make sure you have the following installed on your system:
 
 
 **Getting Started**
+
+
 1. Clone the Elevator Console App repository to your local machine or download and extract the source code.
 
 2. Open Visual Studio.
@@ -25,13 +29,13 @@ Here is the structure of the application
 
 
 ---------------------------------------------------------------------------------------------------------------------
--LiftApp
+-**LiftApp**
   * Interface
   * Models
   * Services
 
 -----------------------------------------------------------------------------------------------------------------------
--LiftApp.Tests
+-**LiftApp.Tests**
 
   * ElevetorTest
 
